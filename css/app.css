@@ -1,0 +1,56 @@
+
+header h1 {
+    background-image: linear-gradient(rgb(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(../images/bar.jpg);
+    text-align: center;
+    padding: 150px;
+    color: white ;
+    font-family: roboto-slab;
+    
+}
+.letra{
+    
+    text-align: center;
+    color: black;
+    font-family: roboto-slab;
+
+
+}
+.perfil{
+    margin-top: -150px;
+}
+
+.br{
+    height: 30px;
+}
+
+
+.imagen{
+
+    height:300px ;
+    width: 15vw;
+    margin: 1% 0% 1% 1%;
+
+}
+
+section{
+    margin-right: 250px;
+    margin-left: 250px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+}
+
+.titulo{
+    text-align: center;
+    color: black;
+    font-size: 100px;
+
+}
+
+.texto{
+    text-align: center;
+    display: flex;
+    color: rgb(46, 64, 83);
+}
+
